@@ -69,13 +69,6 @@ Atualmente busco evoluir continuamente nas áreas de desenvolvimento, Inteligên
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
-
----
 
 ## ⚡ Frase
 
