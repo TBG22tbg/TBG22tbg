@@ -1,76 +1,117 @@
-# Olá, eu sou o Tarcísio Gonçalves 👋
+<h1 align="center">Olá, eu sou o Tarcísio Gonçalves 👋</h1>
 
-💻 Desenvolvedor Full Stack  
-🎨 Designer UI/UX com Figma  
-📊 Apaixonado por tecnologia, análise de dados e automação  
-🚚 Experiência em monitoramento logístico, prevenção de perdas e análise operacional  
+<h3 align="center">
+Desenvolvedor Full Stack • Designer UI/UX • Apaixonado por Tecnologia
+</h3>
+
+<p align="center">
+Transformando ideias em experiências digitais modernas, funcionais e intuitivas.
+</p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou Desenvolvedor Full Stack e Designer UI/UX apaixonado por criar soluções modernas, funcionais e intuitivas.
-
-Tenho experiência com desenvolvimento web utilizando HTML, CSS, JavaScript, Git e GitHub, além de conhecimentos em banco de dados, análise de dados e criação de interfaces no Figma.
-
-Minha trajetória também inclui atuação em monitoramento logístico, análise operacional e prevenção de perdas, o que fortaleceu meu pensamento analítico, organização e resolução de problemas.
-
-Atualmente busco evoluir continuamente nas áreas de desenvolvimento, Inteligência Artificial, Big Data e experiência do usuário.
+💻 Desenvolvedor Full Stack focado em criar aplicações modernas, responsivas e escaláveis.  
+🎨 Designer UI/UX com experiência em prototipação e criação de interfaces no Figma.  
+📊 Experiência com análise de dados, monitoramento logístico e automação de processos.  
+🧠 Perfil analítico, criativo e orientado à resolução de problemas.  
+📚 Sempre aprendendo novas tecnologias e evoluindo constantemente.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Stack Tecnológica
 
-### 💻 Desenvolvimento
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center">
 
-### ⚙️ Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 💻 Front-End
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
-### 🎨 Design e UI/UX
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+### ⚙️ Back-End
+<img src="https://skillicons.dev/icons?i=nodejs" />
 
-### 📊 Dados e Produtividade
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🗄️ Banco de Dados
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+### 🔧 Ferramentas & Versionamento
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+### 🎨 Design & UI/UX
+<img src="https://skillicons.dev/icons?i=figma" />
+
+</div>
 
 ---
 
-## 📚 Atualmente estudando
+## 📈 Estatísticas GitHub
 
-- Node.js
-- APIs REST
-- Banco de Dados
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&border_radius=10"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&border_radius=10"/>
+
+</div>
+
+---
+
+## 🎯 Atualmente focado em
+
+- Desenvolvimento Full Stack
+- Node.js & APIs REST
 - Inteligência Artificial
 - Big Data
-- UI/UX Avançado
-- Desenvolvimento Full Stack
+- UI/UX Design
+- Performance e Responsividade
+- Boas práticas de código
 
 ---
 
-## 🎯 Objetivos
+## 🧩 Soft Skills
 
-✅ Evoluir como Desenvolvedor Full Stack  
-✅ Criar aplicações modernas e responsivas  
-✅ Desenvolver interfaces intuitivas e acessíveis  
-✅ Compartilhar conhecimento e projetos no GitHub  
-
----
-
-## 📫 Contato
-
-📧 Email: goncalvestarcisio86@gmail.com  
-📱 WhatsApp: +55 11 95839-9497  
+✔️ Pensamento analítico  
+✔️ Resolução de problemas  
+✔️ Trabalho em equipe  
+✔️ Comunicação interpessoal  
+✔️ Organização e produtividade  
+✔️ Adaptabilidade e aprendizado contínuo  
 
 ---
 
+## 📌 Projetos em destaque
 
-## ⚡ Frase
+🚧 Em constante desenvolvimento...  
+Aqui você encontrará projetos voltados para:
 
-> "Transformando ideias em experiências digitais."
+- Desenvolvimento Web
+- Interfaces modernas
+- Dashboards
+- Automação
+- Experiências UI/UX
+- Soluções criativas com JavaScript
 
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="left">
+<a href="mailto:goncalvestarcisio86@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SEUUSUARIO">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/5511958399497">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ “Tecnologia é transformar ideias em impacto.”
+
+</div>
