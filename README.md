@@ -37,7 +37,7 @@ Transformando ideias em experiências digitais modernas, funcionais e intuitivas
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ### 🎨 Design & UI/UX
-<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=figma,photoshop" />
 
 </div>
 
