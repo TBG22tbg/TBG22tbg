@@ -25,7 +25,7 @@ Transformando ideias em experiências digitais modernas, funcionais e intuitivas
 <div align="center">
 
 ### 💻 Front-End
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 
 ### ⚙️ Back-End
 <img src="https://skillicons.dev/icons?i=nodejs" />
