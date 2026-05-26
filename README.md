@@ -31,7 +31,7 @@ Transformando ideias em experiências digitais modernas, funcionais e intuitivas
 <img src="https://skillicons.dev/icons?i=nodejs" />
 
 ### 🗄️ Banco de Dados
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 ### 🔧 Ferramentas & Versionamento
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
