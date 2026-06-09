@@ -25,10 +25,10 @@ Transformando ideias em experiências digitais modernas, funcionais e intuitivas
 <div align="center">
 
 ### 💻 Front-End
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 
 ### ⚙️ Back-End
-<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=nodejs,typescript,nestjs" />
 
 ### 🗄️ Banco de Dados
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
