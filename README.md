@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Tarcísio Gonçalves 👋</h1>
 
 <h3 align="center">
-Desenvolvedor Full Stack • Designer UI/UX • Apaixonado por Tecnologia
+Desenvolvedor Full Stack • Designer UI/UX
 </h3>
 
 <p align="center">
