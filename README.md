@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Tarcísio Gonçalves 👋</h1>
 
 <h3 align="center">
-Desenvolvedor Full Stack • Designer UI/UX
+💻 Desenvolvedor Full Stack • 📱 Desenvolvedor Mobile • 🎨 Designer UI/UX
 </h3>
 
 <p align="center">
@@ -12,11 +12,15 @@ Transformando ideias em experiências digitais modernas, funcionais e intuitivas
 
 ## 🚀 Sobre mim
 
-💻 Desenvolvedor Full Stack focado em criar aplicações modernas, responsivas e escaláveis.  
-🎨 Designer UI/UX com experiência em prototipação e criação de interfaces no Figma.  
-📊 Experiência com análise de dados, monitoramento logístico e automação de processos.  
-🧠 Perfil analítico, criativo e orientado à resolução de problemas.  
-📚 Sempre aprendendo novas tecnologias e evoluindo constantemente.
+Sou **Desenvolvedor Full Stack, Mobile e Designer UI/UX**, com foco na criação de aplicações web e mobile responsivas, funcionais e com boa experiência de usuário.
+
+💻 Desenvolvimento de aplicações **Front-End e Back-End**  
+📱 Desenvolvimento de aplicações mobile com **Flutter**  
+🎨 Prototipação e criação de interfaces utilizando **Figma**  
+📊 Experiência com análise de dados, dashboards e processos logísticos  
+⚙️ Desenvolvimento de APIs REST e integração com bancos de dados  
+🧠 Perfil analítico, criativo e orientado à resolução de problemas  
+📚 Aprendizado contínuo e evolução constante em tecnologia  
 
 ---
 
@@ -30,8 +34,13 @@ Transformando ideias em experiências digitais modernas, funcionais e intuitivas
 ### ⚙️ Back-End
 <img src="https://skillicons.dev/icons?i=nodejs,typescript,nestjs" />
 
+### 📱 Mobile
+
+![Mobile](https://skillicons.dev/icons?i=flutter,dart)
+
+
 ### 🗄️ Banco de Dados
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,phpMyAdmin" />
 
 ### 🔧 Ferramentas & Versionamento
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -45,13 +54,16 @@ Transformando ideias em experiências digitais modernas, funcionais e intuitivas
 
 ## 🎯 Atualmente focado em
 
-- Desenvolvimento Full Stack
-- Node.js & APIs REST
-- Inteligência Artificial
-- Big Data
-- UI/UX Design
-- Performance e Responsividade
-- Boas práticas de código
+- 💻 Desenvolvimento Full Stack
+- 📱 Desenvolvimento Mobile com Flutter
+- ⚙️ Node.js, NestJS e APIs REST
+- 🗄️ MySQL, MongoDB e PostgreSQL
+- 🎨 UI/UX Design e prototipação
+- 🤖 Inteligência Artificial
+- 📊 Big Data e análise de dados
+- 📱 Desenvolvimento de aplicações multiplataforma
+- ⚡ Performance e responsividade
+- 🧹 Clean Code e boas práticas de desenvolvimento
 
 ---
 
@@ -62,21 +74,46 @@ Transformando ideias em experiências digitais modernas, funcionais e intuitivas
 ✔️ Trabalho em equipe  
 ✔️ Comunicação interpessoal  
 ✔️ Organização e produtividade  
-✔️ Adaptabilidade e aprendizado contínuo  
+✔️ Adaptabilidade  
+✔️ Aprendizado contínuo  
+✔️ Criatividade  
 
 ---
 
 ## 📌 Projetos em destaque
 
-🚧 Em constante desenvolvimento...  
-Aqui você encontrará projetos voltados para:
+🚀 Estou constantemente desenvolvendo novos projetos para colocar em prática meus conhecimentos.
 
-- Desenvolvimento Web
-- Interfaces modernas
-- Dashboards
-- Automação
-- Experiências UI/UX
-- Soluções criativas com JavaScript
+### 🌐 Desenvolvimento Web
+
+Projetos utilizando:
+
+- HTML, CSS e JavaScript
+- React
+- Node.js
+- NestJS
+- APIs REST
+- MySQL
+- phpMyAdmin
+
+### 📱 Desenvolvimento Mobile
+
+Projetos utilizando:
+
+- Flutter
+- Dart
+- Interfaces responsivas
+- Componentização
+- Integração com APIs
+- Desenvolvimento multiplataforma
+
+### 🎨 UI/UX
+
+- Prototipação no Figma
+- Wireframes
+- Design de interfaces
+- Experiência do usuário
+- Design responsivo
 
 ---
 
